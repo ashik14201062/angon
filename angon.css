@@ -18,3 +18,22 @@ section{
     background-color: aqua;
     border-radius: 15px;
 }
+.bottoms{
+    background-image: url(images/biography-bg.png);
+}
+.bottom{
+    width: 50%;
+    float: left;
+}
+.bottom>h3{
+    padding-left: 40px;
+    font-size: 80px;
+    font-weight: 800;
+    color: blueviolet;
+}
+.bottom>p{
+    padding-left: 80px;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
