@@ -1,0 +1,20 @@
+.top {
+    background-image: url(images/header-bg.png);
+}
+.top-half {
+    float: left;
+    width: 35%;
+}
+section{
+    height: 600px;
+
+}
+.beauti {
+    padding: 6%;
+}
+.button-link{
+    padding: 10px;
+    text-decoration: none;
+    background-color: aqua;
+    border-radius: 15px;
+}
